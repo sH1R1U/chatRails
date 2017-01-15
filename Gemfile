@@ -55,3 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'angularjs-rails'
 
 gem 'active_model_serializers'
+
+gem 'bootstrap-sass'
+
+gem 'autoprefixer-rails'
